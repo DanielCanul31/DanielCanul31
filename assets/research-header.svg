@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-labelledby="title desc">
-  <title id="title">Molecular Virology</title>
-  <desc id="desc">Bioinformatics and Computational Biology. A minimal navy, white, and gray academic header.</desc>
-  <rect width="960" height="180" rx="8" fill="#14263D"/>
-  <text x="40" y="79" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="600">Molecular Virology</text>
-  <text x="42" y="127" fill="#D0D8E2" font-family="Arial, Helvetica, sans-serif" font-size="26">Bioinformatics &amp; Computational Biology</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title description">
+  <title id="title">Bioinformatics, Data Analysis and Viral Evolution</title>
+  <desc id="description">A typographic academic header in navy, white and gray.</desc>
+  <rect width="960" height="220" rx="4" fill="#122238"/>
+  <text x="44" y="63" fill="#B9C5D3" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="2">RESEARCH PROFILE</text>
+  <text x="40" y="126" fill="#FFFFFF" font-family="Georgia, Times New Roman, serif" font-size="56">Bioinformatics</text>
+  <text x="44" y="177" fill="#D6DEE7" font-family="Arial, Helvetica, sans-serif" font-size="30">Data Analysis and Viral Evolution</text>
 </svg>
