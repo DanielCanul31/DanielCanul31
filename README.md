@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/research-header.svg" alt="Bioinformatics, Data Analysis and Viral Evolution" width="960">
+  <img src="assets/research-header.svg?v=2" alt="Bioinformatics, Data Analysis and Viral Evolution" width="960">
 </p>
 
 # DanielCanul31
