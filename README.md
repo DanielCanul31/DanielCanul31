@@ -1,44 +1,45 @@
-<p align="center">
-  <img src="assets/research-header.svg" alt="Molecular Virology — Bioinformatics and Computational Biology" width="960">
+<p>
+  <img src="assets/research-header.svg" alt="Bioinformatics, Data Analysis and Viral Evolution" width="960">
 </p>
 
 # DanielCanul31
 
-**Molecular Virology · Arboviruses · Bioinformatics · Computational Biology**
+**Programming, Bioinformatics and Data Analysis**
 
 ## About Me
 
-I am a researcher focused on molecular virology, arboviruses, bioinformatics, and computational biology. My research interests connect viral sequence analysis and evolutionary relationships with the study of protein–ligand interactions and compounds with potential antiviral activity.
+I am a researcher interested in programming, bioinformatics and the analysis of biological data. My scientific interests focus on phylogenetics, viral evolution and phylogeography, connecting evolutionary relationships with the geographic distribution of viral diversity.
+
+My computational interests include R, Python and Linux.
 
 ## Research Interests
 
-- **Molecular virology:** dengue virus (DENV), Zika virus (ZIKV), and chikungunya virus (CHIKV).
-- **Viral genomics and evolution:** genomic analysis, sequence comparison, and phylogenetic analysis.
-- **Computational molecular research:** molecular docking and the analysis of protein–ligand interactions.
-- **Antiviral research:** investigation of compounds with potential antiviral activity.
-- **Biological data analysis:** computational approaches to research questions in virology.
+- **Programming:** R and Python for computational research.
+- **Bioinformatics and data analysis:** computational approaches to biological datasets.
+- **Phylogenetics:** evolutionary relationships inferred from sequence data.
+- **Viral evolution:** genetic diversity and evolutionary patterns in viruses.
+- **Phylogeography:** the distribution of viral lineages across space and time.
 
 ## Computational Skills
 
-- Sequence alignment and comparative sequence analysis.
-- Viral genomic and phylogenetic analysis.
-- Molecular docking and protein–ligand interaction analysis.
-- Computational analysis and interpretation of biological data.
+**Languages:** R and Python  
+**Environment:** Linux  
+**Areas of focus:** bioinformatics, biological data analysis and phylogenetic analysis.
 
 ## Research Projects
 
-Project descriptions and repository links will be added as they become available for this profile.
+Selected projects and repository links will be added here.
 
-<!-- Add only confirmed projects: title, brief scope, contribution, and an approved repository URL. -->
+<!-- Include only confirmed projects, contributions and repository links provided by the profile owner. -->
 
 ## Publications
 
-Publication details and links will be added once selected for this profile.
+Selected publications will be added here.
 
-<!-- Add citations and publication URLs only when supplied by the profile owner. -->
+<!-- Include only confirmed citations and URLs provided by the profile owner. -->
 
 ## Contact
 
-**GitHub:** [@DanielCanul31](https://github.com/DanielCanul31)
+[GitHub profile](https://github.com/DanielCanul31)
 
-<!-- Add a public contact email, ORCID, or Google Scholar link only when provided for this profile. -->
+<!-- Add a public email address, ORCID or Google Scholar profile only when provided by the profile owner. -->
